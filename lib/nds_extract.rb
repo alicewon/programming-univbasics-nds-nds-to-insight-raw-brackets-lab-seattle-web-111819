@@ -21,6 +21,7 @@ def directors_totals(nds)
   result
 end
 
+
 def gross_for_director(directors_database)
   movie_index = 0
   movies = directors_database[:movies]
